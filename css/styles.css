@@ -1,6 +1,18 @@
-body {
-	color: grey;
-	text-align: center;
-	font-style: normal;
-	font-weight: bold;
+h1 {
+  font-family: serif;
 }
+
+p {
+	padding: 2px;
+	margin: 12px;
+	background-color: lightgrey;
+}
+
+img {
+	width: 40%;
+	height: 40%;
+	}
+	
+a {
+	color: black;
+	}
